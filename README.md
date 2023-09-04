@@ -24,5 +24,12 @@ Se você está interessado em automatizar e personalizar suas interações com s
 
 Não se esqueça de se inscrever no canal para mais conteúdo relacionado a programação e automação. Obrigado por assistir!
 
+Pacotes para instalar:
+
+https://github.com/hansalemaos/wiredseleniumdf
+
+pip install wiredseleniumdf undetected-chromedriver bs4 requests PrettyColorPrinter 
+
+
 
 
